@@ -3,7 +3,7 @@
 [![INSERT YOUR GRAPHIC HERE](https://i.imgur.com/kHjG1C9.jpg)]()
 
 ## About
-This project was worked on by a team of 5 including me for the purpose of my software engineering course. This is the code for a UCTronics car used for line tracking and obstacle avoidance. To line track, the car would use its sensors to detect a line under the car, and the code would run our code using the WIFIRobotCar app on Google Play/Apple Store to avoid obstacles.
+This project was worked on by a team of 5 including me for the purpose of my software engineering course. This is the code for a UCTronics car used for line tracking and obstacle avoidance, coded in Arduino using C++ (which Arduino is based off). To line track, the car would use its sensors to detect a line under the car, and the code would run our code using the WIFIRobotCar app on Google Play/Apple Store to avoid obstacles.
 
 ## Contribution
 I helped brainstorm ideas and implement the script for obstacle avoidance. I also wrote documentation for the project which can be found here: 
